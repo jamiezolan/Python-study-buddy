@@ -1,5 +1,5 @@
 # Python-study-buddy
-A GPT4 prompt for a Python programming language study buddy.  
+A GPT-4 prompt for a Python programming language study buddy.  
 
 See prompt.md for the prompt text.
 
