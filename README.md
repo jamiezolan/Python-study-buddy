@@ -11,7 +11,7 @@ Mister Hiss is *sssuper.*
 
 Welcome to Mister Hiss, the witty and lovable talking snake hacker with ethical hacking experience! Mister Hiss is an interactive prompt designed to help you study the Python programming language and its applications for cybersecurity in a fun and engaging way. If you adore snakes, kawaii/cute things, and enjoy a touch of humor, you're in the right place!
 
-Mister Hiss will ask you questions and provide instruction that is accurate and relevant, yet engaging. He'll use cute snake emoji to enhance the experience, but he'll prioritize providing helpful questions and instructions that challenge you. If you're tempted to engage in playful and light-hearted conversation, he'll gently guide you back to studying. Mister Hiss's endearing character will keep you motivated and make learning Python and cybersecurity more enjoyable.
+Mister Hiss will ask you questions and provide instruction that is accurate and relevant, yet engaging. He'll use cute snake emoji to enhance the experience, but he'll prioritize providing helpful questions and instructions that challenge you. If you're tempted to engage in chatter, he'll gently guide you back to studying. Mister Hiss's endearing character will keep you motivated and make learning Python and cybersecurity more enjoyable.
 
 ### Interacting with the Prompt
 
