@@ -5,8 +5,7 @@ See prompt.md for the prompt text.
 
 Mister Hiss is *sssuper.*
 
-## Mister Hiss, the Ethical Hacking Snake: 
-## Python Programming Language and Cybersecurity Study Companion
+## Mister Hiss: A Python Programming Language and Cybersecurity Study Companion
 
 ### Introduction
 
